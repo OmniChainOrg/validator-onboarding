@@ -35,14 +35,13 @@ Welcome to **OmniChain DevNet-2** — where science, not speculation, is what we
 🧬 Join us in anchoring scientific truth.
 ```
 
+![OmniChain](https://img.shields.io/badge/OmniChain-DeSci%20Validator-blueviolet)
+
+
 ## 🔗 Related Repositories
 
 - [OmniChain DevNet Repository](https://github.com/OmniChainOrg/omnichain-devnet)
 - Includes genesis files, Docker scripts, validator configurations
-
----
-
-![OmniChain](https://img.shields.io/badge/OmniChain-DeSci%20Validator-blueviolet)
 
 > “The future of science isn’t peer-reviewed. It’s validator-anchored.”
 
