@@ -28,15 +28,15 @@ Welcome to **OmniChain DevNet-2** — where science, not speculation, is what we
 - Use provided `plugins/model_checker.py`
 - Or submit your own hash validation script
 
+
+![OmniChain](https://img.shields.io/badge/OmniChain-DeSci%20Validator-blueviolet)
+
 ## 🌐 Docs
 - Simulation Trace Spec: [coming soon]
 - Module Overview: [omnichain-devnet/docs/]
 
 🧬 Join us in anchoring scientific truth.
 ```
-
-![OmniChain](https://img.shields.io/badge/OmniChain-DeSci%20Validator-blueviolet)
-
 
 ## 🔗 Related Repositories
 
