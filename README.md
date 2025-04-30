@@ -46,3 +46,11 @@ Welcome to **OmniChain DevNet-2** — where science, not speculation, is what we
 > “The future of science isn’t peer-reviewed. It’s validator-anchored.”
 
 \#OmniChain #DigitalTwins #ValidatorScience #DecentralizedAI #ModelIntegrity #ScientificBlockchain
+
+### 🛰 Subnet Zones Activated
+
+| Subnet           | Mission & Domain                      | Zone ID           | Aligned Validator        |
+|------------------|---------------------------------------|-------------------|--------------------------|
+| ChronoMatch™     | Biotech & Pharma AI scoring           | zone-chrono-001   | TheraVacNode             |
+| BIODEFMatch™     | Biodefense & Biosecurity simulations  | zone-biodef-002   | TeslaDuo_Validator       |
+| LongevityZone™   | Geroscience & aging model research    | zone-longev-003   | MatrixedCore             |
