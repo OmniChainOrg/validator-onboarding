@@ -1,0 +1,16 @@
+```yaml
+name: Validate Validator PR
+
+on:
+  pull_request:
+    paths:
+      - 'validators.json'
+
+jobs:
+  validate-entry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Confirm PR submission to validators.json
+        run: echo "✅ Validator PR submission detected. Manual review required."
+```
