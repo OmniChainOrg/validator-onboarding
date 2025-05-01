@@ -54,3 +54,11 @@ Welcome to **OmniChain DevNet-2** — where science, not speculation, is what we
 | ChronoMatch™     | Biotech & Pharma AI scoring           | zone-chrono-001   | TheraVacNode             |
 | BIODEFMatch™     | Biodefense & Biosecurity simulations  | zone-biodef-002   | TeslaDuo_Validator       |
 | LongevityZone™   | Geroscience & aging model research    | zone-longev-003   | MatrixedCore             |
+
+### 📡 Live Simulation Anchors (Last Sync)
+
+| Subnet           | Molecule / Model                          | Plugin Used            | Timestamp (UTC)          | Simulation Hash   |
+|------------------|-------------------------------------------|------------------------|--------------------------|-------------------|
+| ChronoMatch™     | Liraglutide (CMS Score)                   | chrono_formulator.py   | 2025-05-01T01:27:43      | `189ad6e2...`     |
+| BIODEFMatch™     | Cyclosarin (Toxicity Audit)               | biohazard_sim.py       | 2025-05-01T01:27:43      | `76c7fa5d...`     |
+| LongevityZone™   | Centenarian Methylation Signature         | aging_ai.py            | 2025-05-01T01:27:43      | `1c292647...`     |
